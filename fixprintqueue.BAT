@@ -1,5 +1,3 @@
-@echo off
-
 echo Run this script with admin privileges!
 echo Right Click -> Run as administrator
 sleep 3
